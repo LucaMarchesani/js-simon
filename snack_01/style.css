@@ -1,0 +1,11 @@
+
+
+button#btn{
+    font-family: 'Zen Dots', cursive;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border: 4px solid black;
+    background-color: red;
+    border-radius: 2rem;
+    color: black;
+}
